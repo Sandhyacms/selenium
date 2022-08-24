@@ -1,0 +1,10 @@
+How to create a project
+1.create a maven project in eclipse
+2.add maven selenium dependency
+ex:
+<dependency>
+    <groupId>org.seleniumhq.selenium</groupId>
+    <artifactId>selenium-java</artifactId>
+    <version>4.2.2</version>
+</dependency>
+
